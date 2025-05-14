@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @faria-webdev404
+- 👋 Hi, I’m Faria Abid
 - 👀 I’m interested in ... Front-end development, UI/UX design and crafting interactive responsive websites
 - 🌱 I’m currently learning ... React.js,Next js,API integration and mastering front-end frameworks
 - 💞️ I’m looking to collaborate on ...open-source projects, beginner-friendly web apps, and internship opportunities
